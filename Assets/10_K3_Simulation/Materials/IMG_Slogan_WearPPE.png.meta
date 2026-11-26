@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: afc4391d5f7146589ba61e0a8c1b4727
+TextureImporter:
+  fileIDToRecycleName: {}
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    enableMipMap: 1
+    sRGBTexture: 1
+  textureType: 0
+  textureShape: 1
+  maxTextureSize: 2048
+  textureFormat: -1
+  filterMode: 1
+  aniso: 4
+  wrapU: 0
+  wrapV: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
